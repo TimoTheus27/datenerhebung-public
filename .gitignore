@@ -16,7 +16,7 @@ lernportfolio
 
 .idea
 *.iml
-data
+#data
 # La/TeX Ignore Start Here: ====================
 
 ## Core latex/pdflatex auxiliary files:
